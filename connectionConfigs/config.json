@@ -1,0 +1,13 @@
+{
+   "api": {
+      "base": "https://localhost:44323/",
+      "auth": "api/auth",
+      "businessProfile": "odata/BusinessProfiles",
+      "job": "odata/Jobs",
+      "category": "odata/Categories",
+      "freelancerProfile": "odata/FreelancerProfiles"
+   },
+   "encryption": {
+      "key": "ahihi"
+   }
+}
